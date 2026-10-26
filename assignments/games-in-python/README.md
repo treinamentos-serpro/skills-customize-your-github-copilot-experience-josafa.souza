@@ -1,10 +1,10 @@
 # 📘 Assignment: Games in Python
 
-## 🎯 Objective
+## 🎯 Obejetivo
 
 Pratique strings, loops, condicionais, entrada de dados e seleção aleatória em Python. Você vai criar uma versão interativa do jogo da Forca com regras claras para palpites e tentativas.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Implementar o Jogo da Forca
 
