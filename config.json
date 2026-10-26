@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sqlite-persistence-fastapi",
+      "title": "SQLite Persistence with FastAPI",
+      "description": "Add SQLite persistence to a FastAPI library API and verify that books survive server restarts",
+      "path": "assignments/sqlite-persistence-fastapi",
+      "dueDate": "2026-11-02",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
